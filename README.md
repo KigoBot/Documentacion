@@ -21,6 +21,7 @@ En caso de que tu servidor haya sido raideado, sigue estos pasos:
 3. Revisa los registros de actividad de Kigo para identificar a los responsables del raideo y reportalos en el servidor de Soporte.
 4. Si es necesario, restablece el servidor a un estado anterior o realiza las acciones pertinentes para mitigar los daños.
 
+---
 
 📌 **Enlaces útiles:**
 - 🗳️ Vota por Kigo en [Top.GG](https://top.gg/bot/917041621042888776)
