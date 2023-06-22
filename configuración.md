@@ -25,71 +25,71 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 - Limite: 1
 
 ## <a name="eliminar-canales"></a>
-### <img src="ruta/a/imagen2.png" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales
 - Estado: :onactiva: Activado
 - Limite: 1
 
 ## <a name="actualizar-canales"></a>
-### <img src="ruta/a/imagen3.png" alt=":systemupdate:"> Actualizar Canales
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":systemupdate:" width="24" height="24"> Actualizar Canales
 - Estado: :onactiva: Activado
 - Limite: 2
 
 ## <a name="crear-roles"></a>
-### <img src="ruta/a/imagen4.png" alt=":980504502086033449:"> Crear Roles
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":980504502086033449:" width="24" height="24"> Crear Roles
 - Estado: :onactiva: Activado
 - Limite: 1
 
 ## <a name="eliminar-roles"></a>
-### <img src="ruta/a/imagen5.png" alt=":archivo:"> Eliminar Roles
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":archivo:" width="24" height="24"> Eliminar Roles
 - Estado: :onactiva: Activado
 - Limite: 1
 
 ## <a name="actualizar-roles"></a>
-### <img src="ruta/a/imagen6.png" alt=":transaction:"> Actualizar Roles
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":transaction:" width="24" height="24"> Actualizar Roles
 - Estado: :onactiva: Activado
 - Limite: 1
 
 ## <a name="prevenir-bots"></a>
-### <img src="ruta/a/imagen7.png" alt=":antibot:"> Prevenir Bots
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antibot:" width="24" height="24"> Prevenir Bots
 - Estado: :ofdesact: Desactivado
 - Tipo: No Verificados
 
 ## <a name="multicuentas"></a>
-### <img src="ruta/a/imagen8.png" alt=":cuentas:"> Multicuentas
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":cuentas:" width="24" height="24"> Multicuentas
 - Estado: :onactiva: Activado
 - Días: 15
 
 ## <a name="prohibiciones-masivas"></a>
-### <img src="ruta/a/imagen9.png" alt=":prohibido:"> Prohibiciones Masivas
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":prohibido:" width="24" height="24"> Prohibiciones Masivas
 - Estado: :onactiva: Activado
 - Limite: 1
 
 ## <a name="actualizar-servidor"></a>
-### <img src="ruta/a/imagen10.png" alt=":actualizar:"> Actualizar el Servidor
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":actualizar:" width="24" height="24"> Actualizar el Servidor
 - Estado: :onactiva: Activado
 
 ## <a name="usuarios-maliciosos"></a>
-### <img src="ruta/a/imagen11.png" alt=":maliciosos:"> Usuarios Maliciosos
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":maliciosos:" width="24" height="24"> Usuarios Maliciosos
 - Estado: :ofdesact: Desactivado
 
 ## <a name="prevenir-everyonehere"></a>
-### <img src="ruta/a/imagen12.png" alt=":antiping:"> Prevenir Everyone/Here
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antiping:" width="24" height="24"> Prevenir Everyone/Here
 - Estado: :onactiva: Activado
 
 ## <a name="enlaces-discord"></a>
-### <img src="ruta/a/imagen13.png" alt=":anti_d_link:"> Enlaces de Discord
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":anti_d_link:" width="24" height="24"> Enlaces de Discord
 - Estado: :onactiva: Activado
 
 ## <a name="enlaces-paginas-web"></a>
-### <img src="ruta/a/imagen14.png" alt=":anti_d_web:"> Enlaces de Páginas Web
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":anti_d_web:" width="24" height="24"> Enlaces de Páginas Web
 - Estado: :onactiva: Activado
 
 ## <a name="menciones-fantasma"></a>
-### <img src="ruta/a/imagen15.png" alt=":gping:"> Menciones Fantasma
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":gping:" width="24" height="24"> Menciones Fantasma
 - Estado: :onactiva: Activado
 
 ## <a name="prevenir-spam"></a>
-### <img src="ruta/a/imagen16.png" alt=":correo:"> Prevenir Spam
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":correo:" width="24" height="24"> Prevenir Spam
 - Estado: :onactiva: Activado
 - Limite: 6
 
