@@ -11,7 +11,7 @@ Kigo es un bot de Discord diseñado para ayudar a moderar y proteger servidores.
 Para configurar a Kigo, sigue los siguientes pasos:
 1. Invita a Kigo a tu servidor de Discord.
 2. Otorga los permisos necesarios al bot para que pueda funcionar correctamente.
-3. Configura los distintos sistemas de seguridad y utilidades según tus necesidades.
+3. Usa el comando /configuracion para configurar sus funciones aqui tienes una guia de como usarlo -> [Configuración Guia](./configuración.md)
 
 ## ¿Qué debo hacer si me han raideado?
 
