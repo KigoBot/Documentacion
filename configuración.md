@@ -27,10 +27,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el limite.
 
-<video controls>
-  <source src="./CrearCanales.mp4" type="video/mp4">
-  Tu navegador no admite la etiqueta de video.
-</video>
+<img src="https://im.ezgif.com/tmp/ezgif-1-7a38bb4d13.gif" alt=":antichannel~1:" width="24" height="24">
 
 ## <a name="eliminar-canales"></a>
 ### <img src="https://cdn.discordapp.com/emojis/980501016090906684.png?v=1" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales
