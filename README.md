@@ -17,6 +17,6 @@ Para configurar a Kigo, sigue los siguientes pasos:
 
 En caso de que tu servidor haya sido raideado, sigue estos pasos:
 1. Mantén la calma y evita entrar en pánico.
-2. Activa el sistema de prohibiciones masivas para detener a los usuarios maliciosos.
-3. Revisa los registros de actividad de Kigo para identificar a los responsables del raideo.
+2. Usa el comando /eliminar-raid para eliminar los canales y roles creados durante el raid (para esto debe de estar Kigo dentro del servidor)
+3. Revisa los registros de actividad de Kigo para identificar a los responsables del raideo y reportalos en el servidor de Soporte.
 4. Si es necesario, restablece el servidor a un estado anterior o realiza las acciones pertinentes para mitigar los daños.
