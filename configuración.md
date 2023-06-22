@@ -80,7 +80,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 
 📌 **Enlaces útiles:**
-- 🗳️ Vota por Kigo en [Sitio de Votación](https://top.gg/bot/917041621042888776)
+- 🗳️ Vota por Kigo en [Top.GG](https://top.gg/bot/917041621042888776)
 - 🛠️ Únete a nuestro Servidor de Soporte en [Discord](https://discord.gg/vYThdaJMxh)
 - 🔗 Invita a Kigo a tu servidor mediante este [enlace de invitación](https://top.gg/bot/917041621042888776/invite)
-- 🎥 Síguenos en nuestro Canal de YouTube para obtener tutoriales y actualizaciones [YouTube](https://youtube.com/@KigoBot)
+- 🎥 Síguenos en nuestro Canal de YouTube para obtener tutorial [YouTube](https://youtube.com/@KigoBot)
