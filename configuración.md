@@ -25,7 +25,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 - Limite: 1
 
 ## <a name="eliminar-canales"></a>
-### <img src="ruta/a/imagen2.png" alt=":anticdelete~1:"> Eliminar Canales
+### <img src="ruta/a/imagen2.png" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales
 - Estado: :onactiva: Activado
 - Limite: 1
 
