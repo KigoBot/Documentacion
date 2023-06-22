@@ -1,7 +1,7 @@
 # Configuración del Bot
 
 En esta sección se detallará la configuración de Kigo. A continuación, se muestra una lista de los sistemas de seguridad y utilidades disponibles, junto con enlaces directos a cada uno de ellos:
-
+- [Introducción](./README.md)
 - [Crear Canales](#antichannel1-crear-canales)
 - [Eliminar Canales](#anticdelete1-eliminar-canales)
 - [Actualizar Canales](#systemupdate-actualizar-canales)
