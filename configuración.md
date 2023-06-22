@@ -19,7 +19,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 - [Menciones Fantasma](#menciones-fantasma)
 - [Prevenir Spam](#prevenir-spam)
 
-## Crear Canales
+## ![Crear Canales](ruta/a/imagen.png) Crear Canales
 - Estado: :onactiva: Activado
 - Limite: 1
 
