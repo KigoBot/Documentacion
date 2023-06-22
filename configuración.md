@@ -23,6 +23,11 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 - Estado: :onactiva: Activado
 - Limite: 1
 
+Aquí puedes ver una animación que muestra cómo configurar la creación de canales:
+
+![Crear Canales](ruta/al/gif.gif)
+
+
 ## :anticdelete~1: Eliminar Canales
 - Estado: :onactiva: Activado
 - Limite: 1
