@@ -19,7 +19,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 - [Menciones Fantasma](#menciones-fantasma)
 - [Prevenir Spam](#prevenir-spam)
 
-## ![Crear Canales](ruta/a/imagen.png) Crear Canales
+## ![Crear Canales](https://cdn.discordapp.com/emojis/980501015616966729.png?v=1) Crear Canales
 - Estado: :onactiva: Activado
 - Limite: 1
 
