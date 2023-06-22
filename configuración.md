@@ -20,7 +20,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 - [Prevenir Spam](#prevenir-spam)
 
 ## <a name="crear-canales"></a>
-### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antichannel~1:"> Crear Canales
+### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antichannel~1:" width="24" height="24"> Crear Canales
 - Estado: :onactiva: Activado
 - Limite: 1
 
