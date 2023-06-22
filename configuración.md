@@ -25,7 +25,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 - Limite: 1
 
 ## <a name="eliminar-canales"></a>
-### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales
+### <img src="https://cdn.discordapp.com/emojis/980501016090906684.png?v=1" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales
 - Estado: :onactiva: Activado
 - Limite: 1
 
