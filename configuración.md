@@ -1,83 +1,78 @@
 # Configuración del Bot
 
 En esta sección se detallará la configuración de Kigo. A continuación, se muestra una lista de los sistemas de seguridad y utilidades disponibles, junto con enlaces directos a cada uno de ellos:
-- [Introducción](./README.md)
-- [Crear Canales](#antichannel1-crear-canales)
-- [Eliminar Canales](#anticdelete1-eliminar-canales)
-- [Actualizar Canales](#systemupdate-actualizar-canales)
-- [Crear Roles](#980504502086033449-crear-roles)
-- [Eliminar Roles](#archivo-eliminar-roles)
-- [Actualizar Roles](#transaction-actualizar-roles)
-- [Prevenir Bots](#antibot-prevenir-bots)
-- [Multicuentas](#cuentas-multicuentas)
-- [Prohibiciones Masivas](#prohibido-prohibiciones-masivas)
-- [Actualizar el Servidor](#actualizar-actualizar-el-servidor)
-- [Usuarios Maliciosos](#maliciosos-usuarios-maliciosos)
-- [Prevenir Everyone/Here](#antiping-prevenir-everyonehere)
-- [Enlaces de Discord](#anti_d_link-enlaces-de-discord)
-- [Enlaces de Páginas Web](#anti_d_web-enlaces-de-páginas-web)
-- [Menciones Fantasma](#gping-menciones-fantasma)
-- [Prevenir Spam](#correo-prevenir-spam)
 
-## :antichannel~1: Crear Canales
+- [Crear Canales](#crear-canales)
+- [Eliminar Canales](#eliminar-canales)
+- [Actualizar Canales](#actualizar-canales)
+- [Crear Roles](#crear-roles)
+- [Eliminar Roles](#eliminar-roles)
+- [Actualizar Roles](#actualizar-roles)
+- [Prevenir Bots](#prevenir-bots)
+- [Multicuentas](#multicuentas)
+- [Prohibiciones Masivas](#prohibiciones-masivas)
+- [Actualizar el Servidor](#actualizar-servidor)
+- [Usuarios Maliciosos](#usuarios-maliciosos)
+- [Prevenir Everyone/Here](#prevenir-everyonehere)
+- [Enlaces de Discord](#enlaces-discord)
+- [Enlaces de Páginas Web](#enlaces-paginas-web)
+- [Menciones Fantasma](#menciones-fantasma)
+- [Prevenir Spam](#prevenir-spam)
+
+## Crear Canales
 - Estado: :onactiva: Activado
 - Limite: 1
 
-Aquí puedes ver una animación que muestra cómo configurar la creación de canales:
-
-![Crear Canales](ruta/al/gif.gif)
-
-
-## :anticdelete~1: Eliminar Canales
+## Eliminar Canales
 - Estado: :onactiva: Activado
 - Limite: 1
 
-## :systemupdate: Actualizar Canales
+## Actualizar Canales
 - Estado: :onactiva: Activado
 - Limite: 2
 
-## :980504502086033449: Crear Roles
+## Crear Roles
 - Estado: :onactiva: Activado
 - Limite: 1
 
-## :archivo: Eliminar Roles
+## Eliminar Roles
 - Estado: :onactiva: Activado
 - Limite: 1
 
-## :transaction: Actualizar Roles
+## Actualizar Roles
 - Estado: :onactiva: Activado
 - Limite: 1
 
-## :antibot: Prevenir Bots
+## Prevenir Bots
 - Estado: :ofdesact: Desactivado
 - Tipo: No Verificados
 
-## :cuentas: Multicuentas
+## Multicuentas
 - Estado: :onactiva: Activado
 - Días: 15
 
-## :prohibido: Prohibiciones Masivas
+## Prohibiciones Masivas
 - Estado: :onactiva: Activado
 - Limite: 1
 
-## :actualizar: Actualizar el Servidor
+## Actualizar el Servidor
 - Estado: :onactiva: Activado
 
-## :maliciosos: Usuarios Maliciosos
+## Usuarios Maliciosos
 - Estado: :ofdesact: Desactivado
 
-## :antiping: Prevenir Everyone/Here
+## Prevenir Everyone/Here
 - Estado: :onactiva: Activado
 
-## :anti_d_link: Enlaces de Discord
+## Enlaces de Discord
 - Estado: :onactiva: Activado
 
-## :anti_d_web: Enlaces de Páginas Web
+## Enlaces de Páginas Web
 - Estado: :onactiva: Activado
 
-## :gping: Menciones Fantasma
+## Menciones Fantasma
 - Estado: :onactiva: Activado
 
-## :correo: Prevenir Spam
+## Prevenir Spam
 - Estado: :onactiva: Activado
 - Limite: 6
