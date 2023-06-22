@@ -1,6 +1,23 @@
 # Configuración del Bot
 
-En esta sección se detallará la configuración de Kigo, con 16 apartados correspondientes a cada sistema de seguridad y utilidades. A continuación se muestra un ejemplo de cómo podrías estructurar cada apartado:
+En esta sección se detallará la configuración de Kigo. A continuación, se muestra una lista de los sistemas de seguridad y utilidades disponibles, junto con enlaces directos a cada uno de ellos:
+
+- [Crear Canales](#antichannel1-crear-canales)
+- [Eliminar Canales](#anticdelete1-eliminar-canales)
+- [Actualizar Canales](#systemupdate-actualizar-canales)
+- [Crear Roles](#980504502086033449-crear-roles)
+- [Eliminar Roles](#archivo-eliminar-roles)
+- [Actualizar Roles](#transaction-actualizar-roles)
+- [Prevenir Bots](#antibot-prevenir-bots)
+- [Multicuentas](#cuentas-multicuentas)
+- [Prohibiciones Masivas](#prohibido-prohibiciones-masivas)
+- [Actualizar el Servidor](#actualizar-actualizar-el-servidor)
+- [Usuarios Maliciosos](#maliciosos-usuarios-maliciosos)
+- [Prevenir Everyone/Here](#antiping-prevenir-everyonehere)
+- [Enlaces de Discord](#anti_d_link-enlaces-de-discord)
+- [Enlaces de Páginas Web](#anti_d_web-enlaces-de-páginas-web)
+- [Menciones Fantasma](#gping-menciones-fantasma)
+- [Prevenir Spam](#correo-prevenir-spam)
 
 ## :antichannel~1: Crear Canales
 - Estado: :onactiva: Activado
