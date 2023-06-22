@@ -27,7 +27,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el limite.
 
-![Crear Canales](ruta/a/gif1.gif)
+![Crear Canales](./CrearCanales.mp4)
 
 ## <a name="eliminar-canales"></a>
 ### <img src="https://cdn.discordapp.com/emojis/980501016090906684.png?v=1" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales
