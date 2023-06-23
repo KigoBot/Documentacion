@@ -103,8 +103,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Multicuentas`. Cuando llegues ahí, podrás configurarlo.
 
-## <img src="https://cdn.discordapp.com/emojis/980501015676327946.png?v=1" alt=":prohibiciones-masivas:" width="24" height="24"> Prohibiciones Masivas <a name="prohibiciones-masivas"></a>
-
+## <img src="https://cdn.discordapp.com/emojis/1109797085945012236.png?v=1" alt=":prohibiciones-masivas:" width="24" height="24"> Prohibiciones Masivas <a name="prohibiciones-masivas"></a>
 **Significado**: Previene que un usuario/bot pueda prohibir a otros usuarios masivamente.
 
 **Sanción**: Si el usuario supera el límite se le prohibirá.
