@@ -112,7 +112,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Moderación > Prohibiciones Masivas`. Cuando llegues ahí, podrás configurarlo.
 
-## <img src="https://cdn.discordapp.com/emojis/1002597285093815808.png?v=1" alt=":refresh:" width="24" height="24"> Actualizar el Servidor <a name="actualizar-servidor"></a>
+## <img src="https://cdn.discordapp.com/emojis/1109797735365869638.png?v=1" alt=":refresh:" width="24" height="24"> Actualizar el Servidor <a name="actualizar-servidor"></a>
 
 **Significado**: Previene que un usuario/bot pueda actualizar la información del servidor masivamente.
 
@@ -122,7 +122,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Servidor > Actualizar Servidor`. Cuando llegues ahí, podrás configurarlo.
 
-## <img src="https://cdn.discordapp.com/emojis/980501015504324096.png?v=1" alt=":userban:" width="24" height="24"> Usuarios Maliciosos <a name="usuarios-maliciosos"></a>
+## <img src="https://cdn.discordapp.com/emojis/1121815732133576755.png?v=1" alt=":userban:" width="24" height="24"> Usuarios Maliciosos <a name="usuarios-maliciosos"></a>
 
 **Significado**: Previene que un usuario/bot malicioso pueda unirse al servidor.
 
@@ -132,7 +132,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Usuarios Maliciosos`. Cuando llegues ahí, podrás configurarlo.
 
-## <img src="https://cdn.discordapp.com/emojis/980501015861432852.png?v=1" alt=":antieveryone:" width="24" height="24"> Prevenir Everyone/Here <a name="prevenir-everyonehere"></a>
+## <img src="https://cdn.discordapp.com/emojis/993451787359105054.png?v=1" alt=":antieveryone:" width="24" height="24"> Prevenir Everyone/Here <a name="prevenir-everyonehere"></a>
 
 **Significado**: Previene el abuso del mencionar a everyone o here en el servidor.
 
@@ -142,7 +142,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Prevenir Everyone/Here`. Cuando llegues ahí, podrás configurarlo.
 
-## <img src="https://cdn.discordapp.com/emojis/980501015504496138.png?v=1" alt=":antidiscordlink:" width="24" height="24"> Enlaces de Discord <a name="enlaces-discord"></a>
+## <img src="https://cdn.discordapp.com/emojis/1054402682334490634.png?v=1" alt=":antidiscordlink:" width="24" height="24"> Enlaces de Discord <a name="enlaces-discord"></a>
 
 **Significado**: Previene el envío de enlaces de Discord en el servidor.
 
@@ -152,7 +152,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Enlaces de Discord`. Cuando llegues ahí, podrás configurarlo.
 
-## <img src="https://cdn.discordapp.com/emojis/980501015676327946.png?v=1" alt=":antilink:" width="24" height="24"> Enlaces de Páginas Web <a name="enlaces-paginas-web"></a> 
+## <img src="https://cdn.discordapp.com/emojis/1054402680304451675.png?v=1" alt=":antilink:" width="24" height="24"> Enlaces de Páginas Web <a name="enlaces-paginas-web"></a> 
 
 **Significado**: Previene el envío de enlaces de páginas web en el servidor.
 
@@ -162,7 +162,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Enlaces de Páginas Web`. Cuando llegues ahí, podrás configurarlo.
 
-## <img src="https://cdn.discordapp.com/emojis/1112028065205737984.png?v=1" alt=":fantasmamention:" width="24" height="24"> Menciones Fantasma <a name="menciones-fantasma"></a>
+## <img src="https://cdn.discordapp.com/emojis/992470490201477240.png?v=1" alt=":fantasmamention:" width="24" height="24"> Menciones Fantasma <a name="menciones-fantasma"></a>
 
 **Significado**: Previene el uso excesivo de menciones fantasma en el servidor.
 
@@ -172,7 +172,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Menciones Fantasma`. Cuando llegues ahí, podrás configurarlo.
 
-## <img src="https://cdn.discordapp.com/emojis/980501015538819072.png?v=1" alt=":antispam:" width="24" height="24"> Prevenir Spam <a name="prevenir-spam"></a>
+## <img src="https://cdn.discordapp.com/emojis/1110194851351384104.png?v=1" alt=":antispam:" width="24" height="24"> Prevenir Spam <a name="prevenir-spam"></a>
 
 
 **Significado**: Previene el envío de mensajes spam en el servidor.
