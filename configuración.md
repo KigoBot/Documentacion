@@ -21,13 +21,13 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 ## <a name="crear-canales"></a>
 ### <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antichannel~1:" width="24" height="24"> Crear Canales
-**Significado**: Previene que un usuario/bot pueda crear un canal.
+**Significado**: Previene que un usuario/bot pueda crear un canal masivamente.
 
 **Sanción**: Si el usuario supera el limite se la prohibira.
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el limite.
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-7a38bb4d13.gif">
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta -> /configuración > Personalizar > Canales > Crear Canales, cuando llegues hay ya podras configurarlo.
 
 ## <a name="eliminar-canales"></a>
 ### <img src="https://cdn.discordapp.com/emojis/980501016090906684.png?v=1" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales
