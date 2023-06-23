@@ -24,7 +24,7 @@ En caso de que tu servidor haya sido raideado, sigue estos pasos:
 ---
 
 📌 **Enlaces útiles:**
-- 🗳️ Vota por Kigo en [Top.GG](https://top.gg/bot/917041621042888776)
-- 🛠️ Únete a nuestro Servidor de Soporte en [Discord](https://discord.gg/vYThdaJMxh)
-- 🔗 Invita a Kigo a tu servidor mediante este [enlace de invitación](https://top.gg/bot/917041621042888776/invite)
-- 🎥 Síguenos en nuestro Canal de YouTube [YouTube](https://youtube.com/@KigoBot)
+- 🗳️ Vota por Kigo en [`Top.GG`](https://top.gg/bot/917041621042888776)
+- 🛠️ Únete a nuestro Servidor de Soporte en [`Discord`](https://discord.gg/vYThdaJMxh)
+- 🔗 Invita a Kigo a tu servidor mediante este [`Enlace de Invitación`](https://top.gg/bot/917041621042888776/invite)
+- 🎥 Síguenos en nuestro Canal de YouTube [`YouTube`](https://youtube.com/@KigoBot)
