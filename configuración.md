@@ -23,7 +23,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 # Inicio Configuración
 
-## <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antichannel~1:" width="24" height="24">  Crear Canales <a name="crear-canales"></a>
+## <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antichannel~1:" width="24" height="24"> Crear Canales <a name="crear-canales"></a>
 
 **Significado**: Previene que un usuario/bot pueda crear un canal masivamente.
 
@@ -33,8 +33,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Canales > Crear Canales`. Cuando llegues ahí, podrás configurarlo.
 
-## Eliminar Canales <a name="eliminar-canales"></a>
-<img src="https://cdn.discordapp.com/emojis/980501016090906684.png?v=1" alt=":anticdelete~1:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501016090906684.png?v=1" alt=":anticdelete~1:" width="24" height="24"> Eliminar Canales <a name="eliminar-canales"></a>
 
 **Significado**: Previene que un usuario/bot pueda eliminar canales masivamente.
 
@@ -44,8 +43,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Canales > Eliminar Canales`. Cuando llegues ahí, podrás configurarlo.
 
-## Actualizar Canales <a name="actualizar-canales"></a>
-<img src="https://cdn.discordapp.com/emojis/1002597284560777358.png?v=1" alt=":systemupdate:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/1002597284560777358.png?v=1" alt=":systemupdate:" width="24" height="24"> Actualizar Canales <a name="actualizar-canales"></a>
 
 **Significado**: Previene que un usuario/bot pueda actualizar canales masivamente.
 
@@ -55,8 +53,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Canales > Actualizar Canales`. Cuando llegues ahí, podrás configurarlo.
 
-## Crear Roles <a name="crear-roles"></a>
-<img src="https://cdn.discordapp.com/emojis/1112411576448847983.png?v=1" alt=":980504502086033449:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/1112411576448847983.png?v=1" alt=":980504502086033449:" width="24" height="24"> Crear Roles <a name="crear-roles"></a>
 
 **Significado**: Previene que un usuario/bot pueda crear roles masivamente.
 
@@ -66,8 +63,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Roles > Crear Roles`. Cuando llegues ahí, podrás configurarlo.
 
-## Eliminar Roles <a name="eliminar-roles"></a>
-<img src="https://cdn.discordapp.com/emojis/1112028061760749669.png?v=1" alt=":archivo:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/1112028061760749669.png?v=1" alt=":archivo:" width="24" height="24"> Eliminar Roles <a name="eliminar-roles"></a>
 
 **Significado**: Previene que un usuario/bot pueda eliminar roles masivamente.
 
@@ -77,8 +73,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Roles > Eliminar Roles`. Cuando llegues ahí, podrás configurarlo.
 
-## Actualizar Roles <a name="actualizar-roles"></a>
-<img src="https://cdn.discordapp.com/emojis/1002597288247574608.png?v=1" alt=":transaction:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/1002597288247574608.png?v=1" alt=":transaction:" width="24" height="24"> Actualizar Roles <a name="actualizar-roles"></a>
 
 **Significado**: Previene que un usuario/bot pueda actualizar roles masivamente.
 
@@ -88,8 +83,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Roles > Actualizar Roles`. Cuando llegues ahí, podrás configurarlo.
 
-## Prevenir Bots <a name="prevenir-bots"></a>
-<img src="https://cdn.discordapp.com/emojis/980501039079899136.png?v=1" alt=":antibot:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501039079899136.png?v=1" alt=":antibot:" width="24" height="24"> Prevenir Bots <a name="prevenir-bots"></a>
 
 **Significado**: Previene que los bots no verificados puedan unirse al servidor.
 
@@ -97,10 +91,9 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el tipo de bots permitidos.
 
-**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Seguridad > Prevenir Bots`. Cuando llegues ahí, podrás configurarlo.
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Prevenir Bots`. Cuando llegues ahí, podrás configurarlo.
 
-## Multicuentas <a name="multicuentas"></a>
-<img src="https://cdn.discordapp.com/emojis/1112028797940801536.png?v=1" alt=":cuentas:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/1112028797940801536.png?v=1" alt=":cuentas:" width="24" height="24"> Multicuentas <a name="multicuentas"></a>
 
 **Significado**: Previene que los usuarios tengan múltiples cuentas en el servidor.
 
@@ -108,10 +101,9 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado).
 
-**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Seguridad > Multicuentas`. Cuando llegues ahí, podrás configurarlo.
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Multicuentas`. Cuando llegues ahí, podrás configurarlo.
 
-## Prohibiciones Masivas <a name="prohibiciones-masivas"></a>
-<img src="https://cdn.discordapp.com/emojis/980501015676327946.png?v=1" alt=":prohibiciones-masivas:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501015676327946.png?v=1" alt=":prohibiciones-masivas:" width="24" height="24"> Prohibiciones Masivas <a name="prohibiciones-masivas"></a>
 
 **Significado**: Previene que un usuario/bot pueda prohibir a otros usuarios masivamente.
 
@@ -121,8 +113,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Moderación > Prohibiciones Masivas`. Cuando llegues ahí, podrás configurarlo.
 
-## Actualizar el Servidor <a name="actualizar-servidor"></a>
-<img src="https://cdn.discordapp.com/emojis/1002597285093815808.png?v=1" alt=":refresh:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/1002597285093815808.png?v=1" alt=":refresh:" width="24" height="24"> Actualizar el Servidor <a name="actualizar-servidor"></a>
 
 **Significado**: Previene que un usuario/bot pueda actualizar la información del servidor masivamente.
 
@@ -132,8 +123,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Servidor > Actualizar Servidor`. Cuando llegues ahí, podrás configurarlo.
 
-## Usuarios Maliciosos <a name="usuarios-maliciosos"></a>
-<img src="https://cdn.discordapp.com/emojis/980501015504324096.png?v=1" alt=":userban:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501015504324096.png?v=1" alt=":userban:" width="24" height="24"> Usuarios Maliciosos <a name="usuarios-maliciosos"></a>
 
 **Significado**: Previene que un usuario/bot malicioso pueda unirse al servidor.
 
@@ -141,10 +131,9 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el tipo de usuarios maliciosos bloqueados.
 
-**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Seguridad > Usuarios Maliciosos`. Cuando llegues ahí, podrás configurarlo.
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Usuarios Maliciosos`. Cuando llegues ahí, podrás configurarlo.
 
-## Prevenir Everyone/Here <a name="prevenir-everyonehere"></a>
-<img src="https://cdn.discordapp.com/emojis/980501015861432852.png?v=1" alt=":antieveryone:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501015861432852.png?v=1" alt=":antieveryone:" width="24" height="24"> Prevenir Everyone/Here <a name="prevenir-everyonehere"></a>
 
 **Significado**: Previene el abuso del mencionar a everyone o here en el servidor.
 
@@ -152,10 +141,9 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado).
 
-**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Seguridad > Prevenir Everyone/Here`. Cuando llegues ahí, podrás configurarlo.
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Prevenir Everyone/Here`. Cuando llegues ahí, podrás configurarlo.
 
-## Enlaces de Discord <a name="enlaces-discord"></a>
-<img src="https://cdn.discordapp.com/emojis/980501015504496138.png?v=1" alt=":antidiscordlink:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501015504496138.png?v=1" alt=":antidiscordlink:" width="24" height="24"> Enlaces de Discord <a name="enlaces-discord"></a>
 
 **Significado**: Previene el envío de enlaces de Discord en el servidor.
 
@@ -163,10 +151,9 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el límite.
 
-**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Seguridad > Enlaces de Discord`. Cuando llegues ahí, podrás configurarlo.
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Enlaces de Discord`. Cuando llegues ahí, podrás configurarlo.
 
-## Enlaces de Páginas Web <a name="enlaces-paginas-web"></a>
-<img src="https://cdn.discordapp.com/emojis/980501015676327946.png?v=1" alt=":antilink:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501015676327946.png?v=1" alt=":antilink:" width="24" height="24"> Enlaces de Páginas Web <a name="enlaces-paginas-web"></a> 
 
 **Significado**: Previene el envío de enlaces de páginas web en el servidor.
 
@@ -174,10 +161,9 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el límite.
 
-**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Seguridad > Enlaces de Páginas Web`. Cuando llegues ahí, podrás configurarlo.
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Enlaces de Páginas Web`. Cuando llegues ahí, podrás configurarlo.
 
-## Menciones Fantasma <a name="menciones-fantasma"></a>
-<img src="https://cdn.discordapp.com/emojis/1112028065205737984.png?v=1" alt=":fantasmamention:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/1112028065205737984.png?v=1" alt=":fantasmamention:" width="24" height="24"> Menciones Fantasma <a name="menciones-fantasma"></a>
 
 **Significado**: Previene el uso excesivo de menciones fantasma en el servidor.
 
@@ -185,10 +171,10 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el límite.
 
-**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Seguridad > Menciones Fantasma`. Cuando llegues ahí, podrás configurarlo.
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Menciones Fantasma`. Cuando llegues ahí, podrás configurarlo.
 
-## Prevenir Spam <a name="prevenir-spam"></a>
-<img src="https://cdn.discordapp.com/emojis/980501015538819072.png?v=1" alt=":antispam:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501015538819072.png?v=1" alt=":antispam:" width="24" height="24"> Prevenir Spam <a name="prevenir-spam"></a>
+
 
 **Significado**: Previene el envío de mensajes spam en el servidor.
 
@@ -196,7 +182,7 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 
 **Configuración**: En este sistema se puede configurar el estado (activado o desactivado) y el límite.
 
-**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Seguridad > Prevenir Spam`. Cuando llegues ahí, podrás configurarlo.
+**Ruta**: Para acceder a esta configuración debes seguir esta ruta: `/configuración > Personalizar > Prevenir Spam`. Cuando llegues ahí, podrás configurarlo.
 
 ---
 
