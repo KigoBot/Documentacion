@@ -2,7 +2,7 @@
 
 En esta sección se detallará la configuración de Kigo. A continuación, se muestra una lista de los sistemas de seguridad y utilidades disponibles, junto con enlaces directos a cada uno de ellos:
 
-### Índice
+# Índice
 
 - [Crear Canales](#crear-canales)
 - [Eliminar Canales](#eliminar-canales)
@@ -21,10 +21,9 @@ En esta sección se detallará la configuración de Kigo. A continuación, se mu
 - [Menciones Fantasma](#menciones-fantasma)
 - [Prevenir Spam](#prevenir-spam)
 
-### Inicio Configuración
+# Inicio Configuración
 
-## Crear Canales <a name="crear-canales"></a>
-<img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antichannel~1:" width="24" height="24"> 
+## <img src="https://cdn.discordapp.com/emojis/980501015616966729.png?v=1" alt=":antichannel~1:" width="24" height="24">  Crear Canales <a name="crear-canales"></a>
 
 **Significado**: Previene que un usuario/bot pueda crear un canal masivamente.
 
